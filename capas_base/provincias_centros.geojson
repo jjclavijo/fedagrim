@@ -1,0 +1,31 @@
+{
+"type": "FeatureCollection",
+"name": "provincias_simple",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::5346" } },
+"features": [
+{ "type": "Feature", "properties": { "nam": "BuenosAires" }, "geometry": { "type": "Point", "coordinates": [ 4720230.763767027296126, 5940924.727033245377243 ] } },
+{ "type": "Feature", "properties": { "nam": "Corrientes" }, "geometry": { "type": "Point", "coordinates": [ 5009394.507383528165519, 6807299.882814701646566 ] } },
+{ "type": "Feature", "properties": { "nam": "Formosa" }, "geometry": { "type": "Point", "coordinates": [ 4809427.519263525493443, 7243611.416806771419942 ] } },
+{ "type": "Feature", "properties": { "nam": "Jujuy" }, "geometry": { "type": "Point", "coordinates": [ 4216178.796891884878278, 7419772.810260880738497 ] } },
+{ "type": "Feature", "properties": { "nam": "Tucuman" }, "geometry": { "type": "Point", "coordinates": [ 4265570.802363927476108, 7018045.164485074579716 ] } },
+{ "type": "Feature", "properties": { "nam": "Cordoba" }, "geometry": { "type": "Point", "coordinates": [ 4424091.406979697756469, 6446238.351547919213772 ] } },
+{ "type": "Feature", "properties": { "nam": "Neuquen" }, "geometry": { "type": "Point", "coordinates": [ 3880414.750359861180186, 5700185.320943679660559 ] } },
+{ "type": "Feature", "properties": { "nam": "CABA" }, "geometry": { "type": "Point", "coordinates": [ 4918098.609855396673083, 6161787.634591120295227 ] } },
+{ "type": "Feature", "properties": { "nam": "EntreRios" }, "geometry": { "type": "Point", "coordinates": [ 4858526.057671363465488, 6448023.760341814719141 ] } },
+{ "type": "Feature", "properties": { "nam": "SantaFe" }, "geometry": { "type": "Point", "coordinates": [ 4697901.267284493893385, 6605199.382763617672026 ] } },
+{ "type": "Feature", "properties": { "nam": "TierraDelFuego" }, "geometry": { "type": "Point", "coordinates": [ 4221519.986093165352941, 3953654.863745266571641 ] } },
+{ "type": "Feature", "properties": { "nam": "Catamarca" }, "geometry": { "type": "Point", "coordinates": [ 4107552.535046472679824, 6971932.296257182024419 ] } },
+{ "type": "Feature", "properties": { "nam": "SanLuis" }, "geometry": { "type": "Point", "coordinates": [ 4218907.117104141041636, 6262013.761861156672239 ] } },
+{ "type": "Feature", "properties": { "nam": "Salta" }, "geometry": { "type": "Point", "coordinates": [ 4311662.062633415684104, 7198903.513760249130428 ] } },
+{ "type": "Feature", "properties": { "nam": "LaPampa" }, "geometry": { "type": "Point", "coordinates": [ 4282623.845860575325787, 5888483.000884348526597 ] } },
+{ "type": "Feature", "properties": { "nam": "Chubut" }, "geometry": { "type": "Point", "coordinates": [ 4055818.695953109767288, 5134905.697850780561566 ] } },
+{ "type": "Feature", "properties": { "nam": "SantaCruz" }, "geometry": { "type": "Point", "coordinates": [ 3991589.626285961829126, 4573134.192272099666297 ] } },
+{ "type": "Feature", "properties": { "nam": "SanJuan" }, "geometry": { "type": "Point", "coordinates": [ 3935192.402403064072132, 6572324.488888390362263 ] } },
+{ "type": "Feature", "properties": { "nam": "SantiagoDelEstero" }, "geometry": { "type": "Point", "coordinates": [ 4475186.288887685164809, 6928956.504014432430267 ] } },
+{ "type": "Feature", "properties": { "nam": "LaRioja" }, "geometry": { "type": "Point", "coordinates": [ 4093992.16915447358042, 6709925.658585259690881 ] } },
+{ "type": "Feature", "properties": { "nam": "Chaco" }, "geometry": { "type": "Point", "coordinates": [ 4721994.753621461801231, 7080836.639089916832745 ] } },
+{ "type": "Feature", "properties": { "nam": "RioNegro" }, "geometry": { "type": "Point", "coordinates": [ 4140487.354502484202385, 5516257.769881633110344 ] } },
+{ "type": "Feature", "properties": { "nam": "Mendoza" }, "geometry": { "type": "Point", "coordinates": [ 3987673.795388819649816, 6156776.311126164160669 ] } },
+{ "type": "Feature", "properties": { "nam": "Misiones" }, "geometry": { "type": "Point", "coordinates": [ 5332379.736954641528428, 7000903.003602742217481 ] } }
+]
+}

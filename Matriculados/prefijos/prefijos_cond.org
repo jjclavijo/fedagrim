@@ -1,0 +1,330 @@
+* Códigos de área telefónicos de Argentina
+| Código | Provincia / Ciudad Autónoma | Localidad                           |
+|--------+-----------------------------+-------------------------------------|
+|     11 | Ciudad de Buenos Aires      | Buenos Aires                        |
+|        | Buenos Aires                |                                     |
+|    220 | Buenos Aires                | Merlo                               |
+|    221 | Buenos Aires                | La Plata                            |
+|    223 | Buenos Aires                | Mar del Plata                       |
+|    230 | Buenos Aires                | Pilar                               |
+|    236 | Buenos Aires                | Junín                               |
+|    237 | Buenos Aires                | Moreno                              |
+|    249 | Buenos Aires                | Tandil                              |
+|    260 | Mendoza                     | San Rafael                          |
+|    261 | Mendoza                     | Mendoza                             |
+|    263 | Mendoza                     | San Martín                          |
+|    264 | San Juan                    | San Juan                            |
+|    266 | San Luis                    | San Luis                            |
+|    280 | Chubut                      | Trelew                              |
+|    291 | Buenos Aires                | Bahía Blanca                        |
+|    294 | Río Negro                   | San Carlos de Bariloche             |
+|        | Neuquén                     |                                     |
+|        | Chubut                      |                                     |
+|    297 | Chubut                      | Comodoro Rivadavia                  |
+|        | Santa Cruz                  |                                     |
+|    298 | Río Negro                   | General Roca                        |
+|    299 | Neuquén                     | Neuquén                             |
+|        | Río Negro                   |                                     |
+|        | La Pampa                    |                                     |
+|    343 | Entre Ríos                  | Paraná                              |
+|    345 | Entre Ríos                  | Concordia                           |
+|    348 | Buenos Aires                | Belén de Escobar                    |
+|    351 | Córdoba                     | Córdoba                             |
+|    353 | Córdoba                     | Villa María                         |
+|    358 | Córdoba                     | Río Cuarto                          |
+|    362 | Chaco                       | Resistencia                         |
+|    364 | Chaco                       | Presidencia Roque Sáenz Peña        |
+|    370 | Formosa                     | Formosa                             |
+|    376 | Misiones                    | Posadas                             |
+|    379 | Corrientes                  | Corrientes                          |
+|    380 | La Rioja                    | La Rioja                            |
+|    381 | Tucumán                     | San Miguel de Tucumán               |
+|    383 | Catamarca                   | San Fernando del Valle de Catamarca |
+|    385 | Santiago del Estero         | Santiago del Estero                 |
+|    387 | Salta                       | Salta                               |
+|    388 | Jujuy                       | San Salvador de Jujuy               |
+|   2202 | Buenos Aires                | González Catán                      |
+|   2221 | Buenos Aires                | Magdalena                           |
+|   2223 | Buenos Aires                | Brandsen                            |
+|   2224 | Buenos Aires                | Glew                                |
+|   2225 | Buenos Aires                | Alejandro Korn                      |
+|   2226 | Buenos Aires                | Cañuelas                            |
+|   2227 | Buenos Aires                | Lobos                               |
+|   2229 | Buenos Aires                | Juan María Gutiérrez                |
+|   2241 | Buenos Aires                | Chascomús                           |
+|   2242 | Buenos Aires                | Lezama                              |
+|   2243 | Buenos Aires                | General Belgrano                    |
+|   2244 | Buenos Aires                | Las Flores                          |
+|   2245 | Buenos Aires                | Dolores                             |
+|   2246 | Buenos Aires                | Santa Teresita                      |
+|   2252 | Buenos Aires                | San Clemente del Tuyú               |
+|   2254 | Buenos Aires                | Pinamar                             |
+|   2255 | Buenos Aires                | Villa Gesell                        |
+|   2257 | Buenos Aires                | Mar de Ajó                          |
+|   2261 | Buenos Aires                | Lobería                             |
+|   2262 | Buenos Aires                | Necochea                            |
+|   2264 | Buenos Aires                | Nicanor Olivera (Est. La Dulce)     |
+|   2265 | Buenos Aires                | Coronel Vidal                       |
+|   2266 | Buenos Aires                | Balcarce                            |
+|   2267 | Buenos Aires                | General Juan Madariaga              |
+|   2268 | Buenos Aires                | Maipú                               |
+|   2271 | Buenos Aires                | San Miguel del Monte                |
+|   2272 | Buenos Aires                | Navarro                             |
+|   2273 | Buenos Aires                | Carmen de Areco                     |
+|   2274 | Buenos Aires                | Carlos Spegazzini                   |
+|   2281 | Buenos Aires                | Azul                                |
+|   2283 | Buenos Aires                | Tapalqué                            |
+|   2284 | Buenos Aires                | Olavarría                           |
+|   2285 | Buenos Aires                | Laprida                             |
+|   2286 | Buenos Aires                | General La Madrid                   |
+|   2291 | Buenos Aires                | Miramar                             |
+|   2292 | Buenos Aires                | Benito Juárez                       |
+|   2296 | Buenos Aires                | Ayacucho                            |
+|   2297 | Buenos Aires                | Rauch                               |
+|   2302 | La Pampa                    | General Pico                        |
+|        | Buenos Aires                |                                     |
+|   2314 | Buenos Aires                | San Carlos de Bolívar               |
+|   2316 | Buenos Aires                | Daireaux                            |
+|   2317 | Buenos Aires                | Nueve de Julio                      |
+|   2320 | Buenos Aires                | José C. Paz                         |
+|   2323 | Buenos Aires                | Luján                               |
+|   2324 | Buenos Aires                | Mercedes                            |
+|   2325 | Buenos Aires                | San Andrés de Giles                 |
+|   2326 | Buenos Aires                | San Antonio de Areco                |
+|   2331 | La Pampa                    | Realicó                             |
+|   2333 | La Pampa                    | Quemú Quemú                         |
+|   2334 | La Pampa                    | Eduardo Castex                      |
+|   2335 | La Pampa                    | Caleufú                             |
+|   2336 | Córdoba                     | Huinca Renancó                      |
+|   2337 | Buenos Aires                | América                             |
+|   2338 | La Pampa                    | Victorica                           |
+|   2342 | Buenos Aires                | Bragado                             |
+|   2343 | Buenos Aires                | Norberto de La Riestra              |
+|   2344 | Buenos Aires                | Saladillo                           |
+|   2345 | Buenos Aires                | 25 de Mayo                          |
+|   2346 | Buenos Aires                | Chivilcoy                           |
+|   2352 | Buenos Aires                | Chacabuco                           |
+|   2353 | Buenos Aires                | General Arenales                    |
+|        | Santa Fe                    |                                     |
+|   2354 | Buenos Aires                | Vedia                               |
+|   2355 | Buenos Aires                | Lincoln                             |
+|   2356 | Buenos Aires                | General Pinto                       |
+|   2357 | Buenos Aires                | Carlos Tejedor                      |
+|   2358 | Buenos Aires                | Los Toldos                          |
+|   2392 | Buenos Aires                | Trenque Lauquen                     |
+|   2393 | Buenos Aires                | Salazar                             |
+|   2394 | Buenos Aires                | Tres Lomas                          |
+|   2395 | Buenos Aires                | Carlos Casares                      |
+|   2396 | Buenos Aires                | Pehuajó                             |
+|   2473 | Buenos Aires                | Colón                               |
+|        | Santa Fe                    |                                     |
+|   2474 | Buenos Aires                | Salto                               |
+|   2475 | Buenos Aires                | Rojas                               |
+|   2477 | Buenos Aires                | Pergamino                           |
+|        | Santa Fe                    |                                     |
+|   2478 | Buenos Aires                | Arrecifes                           |
+|   2622 | Mendoza                     | Tunuyán                             |
+|   2624 | Mendoza                     | Uspallata                           |
+|   2625 | Mendoza                     | General Alvear                      |
+|   2626 | Mendoza                     | La Paz                              |
+|   2646 | San Juan                    | Villa San Agustín                   |
+|   2647 | San Juan                    | San José de Jáchal                  |
+|   2648 | San Juan                    | Calingasta                          |
+|   2651 | San Luis                    | San Francisco del Monte de Oro      |
+|   2652 | San Luis                    | ---                                 |
+|   2655 | San Luis                    | La Toma                             |
+|   2656 | San Luis                    | Tilisarao                           |
+|   2657 | San Luis                    | Villa Mercedes                      |
+|   2658 | San Luis                    | Buena Esperanza                     |
+|   2901 | Tierra del Fuego            | Ushuaia                             |
+|   2902 | Santa Cruz                  | Río Turbio                          |
+|   2903 | Chubut                      | Río Mayo                            |
+|   2920 | Río Negro                   | Viedma                              |
+|        | Buenos Aires                |                                     |
+|   2921 | Buenos Aires                | Coronel Dorrego                     |
+|   2922 | Buenos Aires                | Coronel Pringles                    |
+|   2923 | Buenos Aires                | Pigüé                               |
+|   2924 | Buenos Aires                | Darregueira                         |
+|        | La Pampa                    |                                     |
+|   2925 | Buenos Aires                | Villa Iris                          |
+|        | La Pampa                    |                                     |
+|   2926 | Buenos Aires                | Coronel Suárez                      |
+|   2927 | Buenos Aires                | Médanos                             |
+|   2928 | Buenos Aires                | Pedro Luro                          |
+|   2929 | Buenos Aires                | Guaminí                             |
+|   2931 | Río Negro                   | Río Colorado                        |
+|        | La Pampa                    |                                     |
+|   2932 | Buenos Aires                | Punta Alta                          |
+|   2933 | Buenos Aires                | Huanguelén                          |
+|   2934 | Río Negro                   | San Antonio Oeste                   |
+|   2935 | Buenos Aires                | Rivera                              |
+|   2936 | Buenos Aires                | Carhué                              |
+|   2940 | Río Negro                   | Ingeniero Jacobacci                 |
+|   2942 | Neuquén                     | Zapala                              |
+|        | Río Negro                   |                                     |
+|   2945 | Chubut                      | Esquel                              |
+|   2946 | Río Negro                   | Choele Choel                        |
+|   2948 | Neuquén                     | Chos Malal                          |
+|   2952 | La Pampa                    | General Acha                        |
+|   2953 | La Pampa                    | Macachín                            |
+|   2954 | La Pampa                    | Santa Rosa                          |
+|   2962 | Santa Cruz                  | Puerto San Julián                   |
+|   2963 | Santa Cruz                  | Perito Moreno                       |
+|   2964 | Tierra del Fuego            | Río Grande                          |
+|   2966 | Santa Cruz                  | Río Gallegos                        |
+|   2972 | Neuquén                     | San Martín de los Andes             |
+|   2982 | Buenos Aires                | Orense                              |
+|   2983 | Buenos Aires                | Tres Arroyos                        |
+|   3327 | Buenos Aires                | Benavídez                           |
+|   3329 | Buenos Aires                | San Pedro                           |
+|   3382 | Santa Fe                    | Rufino                              |
+|        | Buenos Aires                |                                     |
+|        | Córdoba                     |                                     |
+|   3385 | Córdoba                     | Laboulaye                           |
+|   3387 | Córdoba                     | Buchardo                            |
+|   3388 | Buenos Aires                | General Villegas                    |
+|   3400 | Santa Fe                    | Villa Constitución                  |
+|   3401 | Santa Fe                    | El Trébol                           |
+|   3402 | Santa Fe                    | Arroyo Seco                         |
+|   3404 | Santa Fe                    | San Carlos Centro                   |
+|   3405 | Santa Fe                    | San Javier                          |
+|   3406 | Santa Fe                    | San Jorge                           |
+|   3407 | Buenos Aires                | Ramallo                             |
+|   3408 | Santa Fe                    | San Cristóbal                       |
+|   3409 | Santa Fe                    | Moisés Ville                        |
+|   3435 | Entre Ríos                  | Nogoyá                              |
+|   3436 | Entre Ríos                  | Victoria                            |
+|   3437 | Entre Ríos                  | La Paz                              |
+|   3438 | Entre Ríos                  | Bovril                              |
+|   3442 | Entre Ríos                  | Concepción del Uruguay              |
+|   3444 | Entre Ríos                  | Gualeguay                           |
+|   3445 | Entre Ríos                  | Rosario del Tala                    |
+|   3446 | Entre Ríos                  | Gualeguaychú                        |
+|   3447 | Entre Ríos                  | Colón                               |
+|   3454 | Entre Ríos                  | Federal                             |
+|   3455 | Entre Ríos                  | Villaguay                           |
+|   3456 | Entre Ríos                  | Chajarí                             |
+|   3458 | Entre Ríos                  | San José de Feliciano               |
+|   3460 | Santa Fe                    | Santa Teresa                        |
+|   3462 | Santa Fe                    | Venado Tuerto                       |
+|   3463 | Córdoba                     | Canals                              |
+|   3464 | Santa Fe                    | Casilda                             |
+|   3465 | Santa Fe                    | Firmat                              |
+|   3466 | Santa Fe                    | Barrancas                           |
+|   3467 | Córdoba                     | Cruz Alta                           |
+|        | Santa Fe                    |                                     |
+|   3468 | Córdoba                     | Corral de Bustos                    |
+|        | Santa Fe                    |                                     |
+|   3469 | Santa Fe                    | Acebal                              |
+|   3471 | Santa Fe                    | Cañada de Gómez                     |
+|   3472 | Córdoba                     | Marcos Juárez                       |
+|   3476 | Santa Fe                    | San Lorenzo                         |
+|   3482 | Santa Fe                    | Reconquista                         |
+|   3483 | Santa Fe                    | Vera                                |
+|   3487 | Buenos Aires                | Zárate                              |
+|   3489 | Buenos Aires                | Campana                             |
+|   3491 | Santa Fe                    | Ceres                               |
+|        | Santiago del Estero         |                                     |
+|   3492 | Santa Fe                    | Rafaela                             |
+|   3493 | Santa Fe                    | Sunchales                           |
+|   3496 | Santa Fe                    | Esperanza                           |
+|   3497 | Santa Fe                    | Llambi Campbell                     |
+|   3498 | Santa Fe                    | San Justo                           |
+|   3521 | Córdoba                     | Deán Funes                          |
+|   3522 | Córdoba                     | Villa de María                      |
+|   3524 | Córdoba                     | Villa del Totoral                   |
+|   3525 | Córdoba                     | Jesús María                         |
+|   3532 | Córdoba                     | Oliva                               |
+|   3533 | Córdoba                     | Las Varillas                        |
+|   3537 | Córdoba                     | Bell Ville                          |
+|   3541 | Córdoba                     | Villa Carlos Paz                    |
+|   3542 | Córdoba                     | Salsacate                           |
+|   3543 | Córdoba                     | Córdoba (Argüello)                  |
+|   3544 | Córdoba                     | Villa Dolores                       |
+|   3546 | Córdoba                     | Santa Rosa de Calamuchita           |
+|   3547 | Córdoba                     | Alta Gracia                         |
+|   3548 | Córdoba                     | La Falda                            |
+|   3549 | Córdoba                     | Cruz del Eje                        |
+|   3562 | Córdoba                     | Morteros                            |
+|        | Santa Fe                    |                                     |
+|   3563 | Córdoba                     | Balnearia                           |
+|   3564 | Córdoba                     | San Francisco                       |
+|        | Santa Fe                    |                                     |
+|   3571 | Córdoba                     | Río Tercero                         |
+|   3572 | Córdoba                     | Río Segundo                         |
+|   3573 | Córdoba                     | Villa del Rosario                   |
+|   3574 | Córdoba                     | Río Primero                         |
+|   3575 | Córdoba                     | La Puerta                           |
+|   3576 | Córdoba                     | Arroyito                            |
+|   3582 | Córdoba                     | Sampacho                            |
+|        | San Luis                    |                                     |
+|   3583 | Córdoba                     | Vicuña Mackenna                     |
+|   3584 | Córdoba                     | La Carlota                          |
+|   3585 | Córdoba                     | Adelia María                        |
+|   3711 | Formosa                     | Ingeniero Juárez                    |
+|   3715 | Formosa                     | Las Lomitas                         |
+|        | Chaco                       |                                     |
+|   3716 | Formosa                     | Comandante Fontana                  |
+|   3718 | Formosa                     | Clorinda                            |
+|   3721 | Chaco                       | Charadai                            |
+|   3725 | Chaco                       | General José de San Martín          |
+|   3731 | Chaco                       | Charata                             |
+|   3734 | Chaco                       | Presidencia de la Plaza             |
+|   3735 | Chaco                       | Villa Ángela                        |
+|   3741 | Misiones                    | Bernardo de Irigoyen                |
+|   3743 | Misiones                    | Puerto Rico                         |
+|   3751 | Misiones                    | Eldorado                            |
+|   3754 | Misiones                    | Leandro N. Alem                     |
+|   3755 | Misiones                    | Oberá                               |
+|   3756 | Corrientes                  | Santo Tomé                          |
+|   3757 | Misiones                    | Puerto Iguazú                       |
+|   3758 | Misiones                    | Apóstoles                           |
+|        | Corrientes                  |                                     |
+|   3772 | Corrientes                  | Paso de los Libres                  |
+|   3773 | Corrientes                  | Mercedes                            |
+|   3774 | Corrientes                  | Curuzú Cuatiá                       |
+|   3775 | Corrientes                  | Monte Caseros                       |
+|   3777 | Corrientes                  | Goya                                |
+|   3781 | Corrientes                  | Caá Catí                            |
+|   3782 | Corrientes                  | Saladas                             |
+|   3786 | Corrientes                  | Ituzaingó                           |
+|   3821 | La Rioja                    | Chepes                              |
+|   3825 | La Rioja                    | Chilecito                           |
+|   3826 | La Rioja                    | Chamical                            |
+|   3827 | La Rioja                    | Aimogasta                           |
+|   3832 | Catamarca                   | Recreo                              |
+|        | Santiago del Estero         |                                     |
+|   3835 | Catamarca                   | Andalgalá                           |
+|   3837 | Catamarca                   | Tinogasta                           |
+|   3838 | Catamarca                   | Santa María                         |
+|   3841 | Santiago del Estero         | Monte Quemado                       |
+|   3843 | Santiago del Estero         | Quimilí                             |
+|   3844 | Santiago del Estero         | Añatuya                             |
+|   3845 | Santiago del Estero         | Loreto                              |
+|   3846 | Santiago del Estero         | Tintina                             |
+|   3854 | Santiago del Estero         | Frías                               |
+|   3855 | Santiago del Estero         | Suncho Corral                       |
+|   3856 | Santiago del Estero         | Villa Ojo de Agua                   |
+|   3857 | Santiago del Estero         | Bandera                             |
+|   3858 | Santiago del Estero         | Termas de Río Hondo                 |
+|   3861 | Santiago del Estero         | Nueva Esperanza                     |
+|   3862 | Tucumán                     | Trancas                             |
+|   3863 | Tucumán                     | Monteros                            |
+|   3865 | Tucumán                     | Concepción                          |
+|   3867 | Tucumán                     | Tafí del Valle                      |
+|   3868 | Salta                       | Cafayate                            |
+|   3869 | Tucumán                     | Ranchillos y San Miguel             |
+|   3873 | Salta                       | Tartagal                            |
+|   3876 | Salta                       | San José de Metán                   |
+|   3877 | Salta                       | Joaquín Víctor González             |
+|        | Chaco                       |                                     |
+|   3878 | Salta                       | Orán                                |
+|   3885 | Jujuy                       | La Quiaca                           |
+|        | Salta                       |                                     |
+|   3886 | Jujuy                       | Libertador General San Martín       |
+|   3887 | Jujuy                       | Humahuaca                           |
+|   3888 | Jujuy                       | San Pedro de Jujuy                  |
+|   3891 | Tucumán                     | Graneros                            |
+|   3892 | Tucumán                     | Amaicha del Valle                   |
+|   3894 | Tucumán                     | Burruyacú                           |
+

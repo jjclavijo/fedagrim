@@ -1,0 +1,22 @@
+{
+"type": "FeatureCollection",
+"name": "universidades",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::5346" } },
+"features": [
+{ "type": "Feature", "properties": { "universidad": "UNNE", "Latitud": -27.47, "Longitud": -58.79 }, "geometry": { "type": "Point", "coordinates": [ 4916328.49783210363239, 6955192.155606558546424 ] } },
+{ "type": "Feature", "properties": { "universidad": "UNICEN", "Latitud": -36.92, "Longitud": -60.31 }, "geometry": { "type": "Point", "coordinates": [ 4739716.74595995247364, 5910951.179161037318408 ] } },
+{ "type": "Feature", "properties": { "universidad": "UNR", "Latitud": -32.96, "Longitud": -60.63 }, "geometry": { "type": "Point", "coordinates": [ 4721609.992054022848606, 6351159.386537668295205 ] } },
+{ "type": "Feature", "properties": { "universidad": "UBA", "Latitud": -34.59, "Longitud": -58.4 }, "geometry": { "type": "Point", "coordinates": [ 4922171.70072615146637, 6163223.778233082033694 ] } },
+{ "type": "Feature", "properties": { "universidad": "UNT", "Latitud": -26.84, "Longitud": -65.23 }, "geometry": { "type": "Point", "coordinates": [ 4278315.813491925597191, 7030115.34774019010365 ] } },
+{ "type": "Feature", "properties": { "universidad": "UNLP", "Latitud": -34.91, "Longitud": -57.95 }, "geometry": { "type": "Point", "coordinates": [ 4961717.03178268764168, 6125694.788463403470814 ] } },
+{ "type": "Feature", "properties": { "universidad": "UNSJ", "Latitud": -31.53, "Longitud": -68.54 }, "geometry": { "type": "Point", "coordinates": [ 3973481.251938443630934, 6498890.911455800756812 ] } },
+{ "type": "Feature", "properties": { "universidad": "UNCa", "Latitud": -28.46, "Longitud": -65.78 }, "geometry": { "type": "Point", "coordinates": [ 4227665.257418249733746, 6849395.263771314173937 ] } },
+{ "type": "Feature", "properties": { "universidad": "UNC", "Latitud": -31.42, "Longitud": -64.19 }, "geometry": { "type": "Point", "coordinates": [ 4386847.345422852784395, 6523812.090045623481274 ] } },
+{ "type": "Feature", "properties": { "universidad": "UNL", "Latitud": -31.64, "Longitud": -60.67 }, "geometry": { "type": "Point", "coordinates": [ 4721052.519389053806663, 6497672.789535597898066 ] } },
+{ "type": "Feature", "properties": { "universidad": "UNS", "Latitud": -38.7, "Longitud": -62.27 }, "geometry": { "type": "Point", "coordinates": [ 4563503.822828212752938, 5716512.582512001506984 ] } },
+{ "type": "Feature", "properties": { "universidad": "UNSE", "Latitud": -27.8, "Longitud": -64.25 }, "geometry": { "type": "Point", "coordinates": [ 4376815.844274309463799, 6925060.787545554339886 ] } },
+{ "type": "Feature", "properties": { "universidad": "UMoron", "Latitud": -34.65, "Longitud": -58.62 }, "geometry": { "type": "Point", "coordinates": [ 4901676.519945179112256, 6157461.574580105952919 ] } },
+{ "type": "Feature", "properties": { "universidad": "MAZA", "Latitud": -32.9, "Longitud": -68.81 }, "geometry": { "type": "Point", "coordinates": [ 3956040.729119805153459, 6345296.12927907332778 ] } },
+{ "type": "Feature", "properties": { "universidad": "UNDEF", "Latitud": -34.57, "Longitud": -58.44 }, "geometry": { "type": "Point", "coordinates": [ 4918598.405249242670834, 6165612.029249427840114 ] } }
+]
+}

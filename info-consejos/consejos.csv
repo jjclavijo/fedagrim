@@ -1,0 +1,26 @@
+Provincia,Año_digital,Info_dig_publica,Planos_mensura_publicos,Planos_viejos_publicos,Estado_Parcelario,Cert_Catastral,Matricula_en,N_matriculados,Regulado_por,Honorarios,Costo_matricula,Creacion,n_parcelas_prov,Centralizado,Aplican_ley_nacional,Vigencia_VEP,Ley_colegiacion,Comparte_colegio
+BuenosAires,,R,R,SI,Si,Si,Consejo,1327,Consejo,Caja Regula,3600,1985,5663091,SI,,6,si,
+CABA,,SI,R,SI,NO,,Consejo,226,Consejo,Comsjo Sigoere,4800,1944,319224,SI,,,si,
+Catamarca,2012,NO,SI,no,SI,si,,,,,,,200000,,,,si,
+Chaco,,,NO,NO,,no,consejo,500,consejo,,,2019,,no,si,,si,
+Chubut,2011,NO,SI,SI,NO,NO URB,,90,,,,1965,,NO,,,sin ley,Ingenieria
+Cordoba,2010,NO,SI,SI,SI,SI,colegio,300,colegio,nadie,7500,1986,2000000,NO,progresivamente,,si,
+Corrientes,1998,NO,SI,NO,NO,SI,,1300,,,,1958,,,,,sin ley,"Arquitectos, Ingenieros"
+EntreRios,1998,NO,SI,SI,SI,SI,Colegio,167,colegio,colegio ,5000 a 6000,1994,,SI,si,,si,
+Formosa,2011,R,SI,SI,SI,SI,consejo,166,consejo,consejo,,1982,,no,si,,si,
+Jujuy,,,,,NO,,,10,,,,,179080,,,,sin ley,Geologos y Agronomos
+LaPampa,2014,NO,SI,SI,NO,NO,consejo,60,consejo,consejo,3000,1979,,no,en proceso,,si,
+LaRioja,2009,NO,SI,SI,SI,NO,Consejo,31,Consejo,CONSEJO,5300,1965,155000,SI,adhiere no aplica,,si,
+Mendoza,2000,NO,SI,SI,si,SI,colegio,400,colegio,colegio,5000 a 7000,1994,700000,depende,,,si,
+Misiones,1985,SI,SI,SI,SI,SI,Colegio,150,Colegio,colegio,6000,1983,400.206,SI,SI,5,si,
+Neuquen,2015,NO,SI,SI,SI,SI,colegio,125,colegio,colegio,,1958,,DEPENDE,,5,si,
+RioNegro,2018,NO,SI,SI,NO ,SI,Consejo,,Consejo,consejo,,2017,4840500,,,0,si,
+Salta,2018,NO,SI,si,NO,NO,consejo,42,consejo,nadie,350 x mes,1962,260000,NO,no,,sin ley,Ingenieros
+SanJuan,2007,R,SI,Si,Si,Si,consejo,,,consejo,4500,1958,250000,si,no,,sin ley,
+SanLuis,2010,NO,SI,si,si,no,colegio,52,colegio,nadie,6000 prov y 30000 alejados,1960,247000,depende ,si en 2009,-,si,
+SantaCruz,,,,,NO,NO,,21,consejo,colegio,5000,,,no,si,,sin ley,
+SantaFe,2008,NO,SI,si,Si,Si,colegio,170,colegio,colegio,3000,1991,,opcional,si,5,si,
+Santa Fe (S),,,,,,,,,,,,,,,,,si,
+SantiagoDelEstero,2005,NO,SI,si,si,si,consejo,94,consejo,consejo,3000,en construccion,,no,si,5,sin ley,
+TierraDelFuego,,R,SI,SI,No,Si,consejo,32,consejo,consejo,3200,2014,45000,no,no,,si,
+Tucuman,2006,NO,SI,SI,SI,si,colegio,80,colegio,colegio,3000,1990,342000,no,si,10,si,
