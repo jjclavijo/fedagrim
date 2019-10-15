@@ -1,0 +1,216 @@
+fid,Provincia,Localidad,Partido,Direccion,Aclaraciones,Telefono,ENCARGADOS,Fuente
+2,Cordoba,Bell Ville,,Córdoba 509,1° Piso,03537-421025,,
+3,Cordoba,Cosquín,,San Martín 1332,,03541-459622,,
+4,Cordoba,Cruz del Eje,,Alvear 393,,03549-426745,,
+5,Cordoba,Deán Funes,,Rivadavia 169,,03521-426212,,
+6,Cordoba,Jesús María,,Córdoba 233,,03525-426706,,
+7,Cordoba,Laboulaye,,Av. Independencia 194,,03385-453255,,
+8,Cordoba,Marcos Juárez,,Francisco Beiro 330,,03472-422836,,
+9,Cordoba,Río Cuarto,,Colón 55,,0358-4672906,,
+10,Cordoba,Río Tercero,,San Martín 255,1° Piso,03571-439202,,
+11,Cordoba,San Francisco,,9 de julio 1683,,03564-443734,,
+12,Cordoba,Santa Rosa de Calamuchita,,El Nogal y Av. Costanera,,03546-426689,,
+13,Cordoba,Villa Carlos Paz,,Uruguay 703,,03541-438269,,
+14,Cordoba,Villa Dolores,,Sarmiento 67,,03544-426411,,
+15,Cordoba,Villa María,,J. Ingenieros y Buenos Aires,,0353-4619100,,
+16,Cordoba,Canals,,Ingeniero Firpo 151,,03463-423192,,
+17,LaRioja,Chepes,,,,,Anibal Lopez,
+18,LaRioja,Aimogasta,,San Martin,(CP 5310),,Marcos Patricio Cordoba,
+19,LaRioja,Chilecito,,Julian Amatte 235,(CP 5360),(3825) 422842,Ing. Maria Alejandra Diaz,
+20,RioNegro,Viedma,,Moreno 173,,02920-425923 y 02920-420667.,,https://www.rionegro.gov.ar/?contID=13413
+21,RioNegro,General Roca,,9 de julio 889,,0298-4436731,,https://www.rionegro.gov.ar/?contID=13413
+22,RioNegro,San Carlos de Bariloche,,Gallardo 855,1º piso,0294-4424479,,https://www.rionegro.gov.ar/?contID=13413
+23,BuenosAires,Alberti,2,Víctor Albizzatti N°85,,,,https://www.arba.gov.ar/Informacion/InfoGeneral/Atencion/LOCALIDADES.asp
+24,BuenosAires,A. Korn,268,Boulevard Presidente Perón N°4964,,,,https://www.arba.gov.ar/Informacion/InfoGeneral/Atencion/LOCALIDADES.asp
+25,BuenosAires,Adrogue,3,Somellera N° 657,,,,https://www.arba.gov.ar/Informacion/InfoGeneral/Atencion/LOCALIDADES.asp
+26,BuenosAires,Avellaneda,4,Av. Mitre N° 102,esq. Estevez - Planta baja,,,https://www.arba.gov.ar/Informacion/InfoGeneral/Atencion/LOCALIDADES.asp
+27,BuenosAires,Ayacucho,5,9 de Julio N° 775,,,,https://www.arba.gov.ar/Informacion/InfoGeneral/Atencion/LOCALIDADES.asp
+28,BuenosAires,Azul,6,San Martín 374,,,,https://www.arba.gov.ar/Informacion/InfoGeneral/Atencion/LOCALIDADES.asp
+29,BuenosAires,Bahia Blanca,7,Mitre N° 282,primer Piso,,,https://www.arba.gov.ar/Informacion/InfoGeneral/Atencion/LOCALIDADES.asp
+30,BuenosAires,Balcarce,8,Avda. Chaves N° 449,,,,https://www.arba.gov.ar/Informacion/InfoGeneral/Atencion/LOCALIDADES.asp
+31,BuenosAires,Baradero,9,Anchorena Nº 1280,,,,https://www.arba.gov.ar/Informacion/InfoGeneral/Atencion/LOCALIDADES.asp
+32,BuenosAires,Benito Juarez,53,Av. San Martín N° 39,,,,https://www.arba.gov.ar/Informacion/InfoGeneral/Atencion/LOCALIDADES.asp
+33,BuenosAires,Berisso,114,Calle 8 (D. Leveratto) N° 4375,,,,https://www.arba.gov.ar/Informacion/InfoGeneral/Atencion/LOCALIDADES.asp
+34,BuenosAires,Bolívar,11,Av. Lavalle Nº 172,,,,https://www.arba.gov.ar/Informacion/InfoGeneral/Atencion/LOCALIDADES.asp
+35,BuenosAires,Bonifacio,260,España y 28 de Febrero,,,,https://www.arba.gov.ar/Informacion/InfoGeneral/Atencion/LOCALIDADES.asp
+36,BuenosAires,Bragado,12,Rivadavia Nº 1259,,,,https://www.arba.gov.ar/Informacion/InfoGeneral/Atencion/LOCALIDADES.asp
+37,BuenosAires,Casbas,202,Justo Condesse N° 244,,,,https://www.arba.gov.ar/Informacion/InfoGeneral/Atencion/LOCALIDADES.asp
+38,BuenosAires,Campana,14,Jean Jaures N° 744,,,,https://www.arba.gov.ar/Informacion/InfoGeneral/Atencion/LOCALIDADES.asp
+39,BuenosAires,Capitan Sarmiento,121,V. López y Planes N° 740,,,,https://www.arba.gov.ar/Informacion/InfoGeneral/Atencion/LOCALIDADES.asp
+40,BuenosAires,Ciudad Autónoma de Bs. As.,0,Av. Corrientes N° 503,esq. San Martín,,,https://www.arba.gov.ar/Informacion/InfoGeneral/Atencion/LOCALIDADES.asp
+41,BuenosAires,Consejo Prof. Ciencias Economicas CABA,,Viamonte 1549,,,,https://www.arba.gov.ar/Informacion/InfoGeneral/Atencion/LOCALIDADES.asp
+42,BuenosAires,Casa de la Provincia de Buenos Aires,,Av. Callao 237,entre Sarmiento y Pres. Tte. Gral. Juan Domingo Perón,,,https://www.arba.gov.ar/Informacion/InfoGeneral/Atencion/LOCALIDADES.asp
+43,BuenosAires,Carlos Casares,16,Av. Maya Nº 261,,,,https://www.arba.gov.ar/Informacion/InfoGeneral/Atencion/LOCALIDADES.asp
+44,BuenosAires,Carlos Tejedor,17,Esteban y Santiago Garre N° 343,,,,https://www.arba.gov.ar/Informacion/InfoGeneral/Atencion/LOCALIDADES.asp
+45,BuenosAires,Carmen de Areco,18,Belgrano N° 714,e/ Azcuenaga y Moreno,,,https://www.arba.gov.ar/Informacion/InfoGeneral/Atencion/LOCALIDADES.asp
+46,BuenosAires,Carmen de Patagones,79,Alsina Nº 125,,,,https://www.arba.gov.ar/Informacion/InfoGeneral/Atencion/LOCALIDADES.asp
+47,BuenosAires,Castelli,20,Sarmiento N° 22,,,,https://www.arba.gov.ar/Informacion/InfoGeneral/Atencion/LOCALIDADES.asp
+48,BuenosAires,Chacabuco,26,Moreno N° 111,,,,https://www.arba.gov.ar/Informacion/InfoGeneral/Atencion/LOCALIDADES.asp
+49,BuenosAires,Chascomus,27,Belgrano N° 17,,,,https://www.arba.gov.ar/Informacion/InfoGeneral/Atencion/LOCALIDADES.asp
+50,BuenosAires,Chillar,273,Juan Manuel García N° 66,,,,https://www.arba.gov.ar/Informacion/InfoGeneral/Atencion/LOCALIDADES.asp
+51,BuenosAires,Chivilcoy,28,Pueyrredón Nº 60,,,,https://www.arba.gov.ar/Informacion/InfoGeneral/Atencion/LOCALIDADES.asp
+52,BuenosAires,CITY BELL,,Calle 15 Nro 325,entre 472 y 473 (Cantilo),,,https://www.arba.gov.ar/Informacion/InfoGeneral/Atencion/LOCALIDADES.asp
+53,BuenosAires,Colon,21,20 N°630,,,,https://www.arba.gov.ar/Informacion/InfoGeneral/Atencion/LOCALIDADES.asp
+54,BuenosAires,Comandante Nicanor Otamendi,228,Pueyrredón Nº 2293,,,,https://www.arba.gov.ar/Informacion/InfoGeneral/Atencion/LOCALIDADES.asp
+55,BuenosAires,Coronel Brandsen,13,Larrea N° 1047,,,,https://www.arba.gov.ar/Informacion/InfoGeneral/Atencion/LOCALIDADES.asp
+56,BuenosAires,Punta Alta,113,Rivadavia y Passo,,,,https://www.arba.gov.ar/Informacion/InfoGeneral/Atencion/LOCALIDADES.asp
+57,BuenosAires,Coronel Dorrego,22,R.Fuertes Nº 674,,,,https://www.arba.gov.ar/Informacion/InfoGeneral/Atencion/LOCALIDADES.asp
+58,BuenosAires,Coronel Pringles,23,Stegman N° 730,,,,https://www.arba.gov.ar/Informacion/InfoGeneral/Atencion/LOCALIDADES.asp
+59,BuenosAires,Coronel Suarez,24,Las Heras Nº 644,,,,https://www.arba.gov.ar/Informacion/InfoGeneral/Atencion/LOCALIDADES.asp
+60,BuenosAires,Coronel Vidal,69,Gral. Paz Nº 516,,,,https://www.arba.gov.ar/Informacion/InfoGeneral/Atencion/LOCALIDADES.asp
+61,BuenosAires,Daireaux,19,Rivadavia N° 202,,,,https://www.arba.gov.ar/Informacion/InfoGeneral/Atencion/LOCALIDADES.asp
+62,BuenosAires,Darregueira,203,Italia N° 265,,,,https://www.arba.gov.ar/Informacion/InfoGeneral/Atencion/LOCALIDADES.asp
+63,BuenosAires,DARREGUEIRA,,Padre Niehaus N° 15,,,,https://www.arba.gov.ar/Informacion/InfoGeneral/Atencion/LOCALIDADES.asp
+64,BuenosAires,Norberto de la Riestra,211,Patricio Kilmurry N° 700,,,,https://www.arba.gov.ar/Informacion/InfoGeneral/Atencion/LOCALIDADES.asp
+65,BuenosAires,Dolores,29,Aristóbulo del Valle N° 167,,,,https://www.arba.gov.ar/Informacion/InfoGeneral/Atencion/LOCALIDADES.asp
+66,BuenosAires,Dudignac,253,Av. Belgrano N° 158,,,,https://www.arba.gov.ar/Informacion/InfoGeneral/Atencion/LOCALIDADES.asp
+67,BuenosAires,Ensenada,115,La Merced Nº 108,(esq. Horacio Cestino),,,https://www.arba.gov.ar/Informacion/InfoGeneral/Atencion/LOCALIDADES.asp
+68,BuenosAires,Escobar,118,E.Tapia de Cruz N° 440,,,,https://www.arba.gov.ar/Informacion/InfoGeneral/Atencion/LOCALIDADES.asp
+69,BuenosAires,ESCOBAR,,Av. Belgrano N° 657,,,,https://www.arba.gov.ar/Informacion/InfoGeneral/Atencion/LOCALIDADES.asp
+70,BuenosAires,MONTE GRANDE,,Contanzo N° 202,,,,https://www.arba.gov.ar/Informacion/InfoGeneral/Atencion/LOCALIDADES.asp
+71,BuenosAires,Exaltacion de la Cruz,31,H. Irigoyen N° 582,,,,https://www.arba.gov.ar/Informacion/InfoGeneral/Atencion/LOCALIDADES.asp
+72,BuenosAires,Ezeiza,130,Avellaneda 51,( e/Ruta 205 y Pte. Perón),,,https://www.arba.gov.ar/Informacion/InfoGeneral/Atencion/LOCALIDADES.asp
+73,BuenosAires,Florencio Varela,32,Monteagudo Nº 3138 ,(ex calle 266),,,https://www.arba.gov.ar/Informacion/InfoGeneral/Atencion/LOCALIDADES.asp
+74,BuenosAires,Ameghino,128,9 de Julio N° 658,,,,https://www.arba.gov.ar/Informacion/InfoGeneral/Atencion/LOCALIDADES.asp
+75,BuenosAires,General Alvarado,33,"Calle 30 Nº 1132 entre 21 y 2, Miramar",,,,https://www.arba.gov.ar/Informacion/InfoGeneral/Atencion/LOCALIDADES.asp
+76,BuenosAires,General Alvear,34,Sarmiento y Lavalle,,,,https://www.arba.gov.ar/Informacion/InfoGeneral/Atencion/LOCALIDADES.asp
+77,BuenosAires,General Arenales,35,Alvear N° 127,,,,https://www.arba.gov.ar/Informacion/InfoGeneral/Atencion/LOCALIDADES.asp
+78,BuenosAires,General Belgrano,36,Estrada N° 751,,,,https://www.arba.gov.ar/Informacion/InfoGeneral/Atencion/LOCALIDADES.asp
+79,BuenosAires,General Guido,37,Belgrano N° 460,,,,https://www.arba.gov.ar/Informacion/InfoGeneral/Atencion/LOCALIDADES.asp
+80,BuenosAires,GENERAL LA MADRID,,Av Mitre entre calle Alem y Lavalle,,,,https://www.arba.gov.ar/Informacion/InfoGeneral/Atencion/LOCALIDADES.asp
+81,BuenosAires,General las Heras,41,San Martin N° 187,,,,https://www.arba.gov.ar/Informacion/InfoGeneral/Atencion/LOCALIDADES.asp
+82,BuenosAires,General Lavalle,42,Manuel Lainez N° 1062,,,,https://www.arba.gov.ar/Informacion/InfoGeneral/Atencion/LOCALIDADES.asp
+83,BuenosAires,General Madariaga,39,Belgrano esq. Irigoyen,,,,https://www.arba.gov.ar/Informacion/InfoGeneral/Atencion/LOCALIDADES.asp
+84,BuenosAires,Ranchos,43,OBDULIO HERNANDEZ CASTRO N° 2813,(CENTRO CIVICO),,,https://www.arba.gov.ar/Informacion/InfoGeneral/Atencion/LOCALIDADES.asp
+85,BuenosAires,General Pinto,44,Gowland y San Martín,,,,https://www.arba.gov.ar/Informacion/InfoGeneral/Atencion/LOCALIDADES.asp
+86,BuenosAires,General Rodriguez,46,Av. Presidente Perón N° 67,,,,https://www.arba.gov.ar/Informacion/InfoGeneral/Atencion/LOCALIDADES.asp
+87,BuenosAires,San Martin,47,Tucuman N° 2129 - PB,,,,https://www.arba.gov.ar/Informacion/InfoGeneral/Atencion/LOCALIDADES.asp
+88,BuenosAires,Los Toldos,49,Mitre Nº 959 2º piso,,,,https://www.arba.gov.ar/Informacion/InfoGeneral/Atencion/LOCALIDADES.asp
+89,BuenosAires,General Villegas,50,San Martin N° 453.,,,,https://www.arba.gov.ar/Informacion/InfoGeneral/Atencion/LOCALIDADES.asp
+90,BuenosAires,GONZALEZ CATAN,,Juan Manuel de Rosas N° 17.798,(Ruta 3 km 32.5) e/ Sunchales y Mariano Acosta,,,https://www.arba.gov.ar/Informacion/InfoGeneral/Atencion/LOCALIDADES.asp
+91,BuenosAires,Guamini,52,Belgrano N° 540,,,,https://www.arba.gov.ar/Informacion/InfoGeneral/Atencion/LOCALIDADES.asp
+92,BuenosAires,Henderson,119,Rivadavia Nº 467,,,,https://www.arba.gov.ar/Informacion/InfoGeneral/Atencion/LOCALIDADES.asp
+93,BuenosAires,Hurlingham,135,Vergara Nº 3533,,,,https://www.arba.gov.ar/Informacion/InfoGeneral/Atencion/LOCALIDADES.asp
+94,BuenosAires,Ituzaingó,136,Peatonal Eva Perón N° 848,,,,https://www.arba.gov.ar/Informacion/InfoGeneral/Atencion/LOCALIDADES.asp
+95,BuenosAires,José C.Paz,132,Gelly y Obes N° 4763,,,,https://www.arba.gov.ar/Informacion/InfoGeneral/Atencion/LOCALIDADES.asp
+96,BuenosAires,Junin,54,H. Yrigoyen N° 85,Planta baja,,,https://www.arba.gov.ar/Informacion/InfoGeneral/Atencion/LOCALIDADES.asp
+97,BuenosAires,Mar de Ajo,123,José Quinteros N° 288,,,,https://www.arba.gov.ar/Informacion/InfoGeneral/Atencion/LOCALIDADES.asp
+98,BuenosAires,LA MATANZA,70,H. Irigoyen N° 2420,,,,https://www.arba.gov.ar/Informacion/InfoGeneral/Atencion/LOCALIDADES.asp
+99,BuenosAires,Los Hornos,55,137 N° 1580,e/ 64 y 65,,,https://www.arba.gov.ar/Informacion/InfoGeneral/Atencion/LOCALIDADES.asp
+100,BuenosAires,Olmos,55,44 e/ 196 y 197,,,,https://www.arba.gov.ar/Informacion/InfoGeneral/Atencion/LOCALIDADES.asp
+101,BuenosAires,Villa Elvira,55,82 N° 618 e/ 7 y 8,,,,https://www.arba.gov.ar/Informacion/InfoGeneral/Atencion/LOCALIDADES.asp
+102,BuenosAires,Lanus,25,Ituzaingó N° 1541,,,,https://www.arba.gov.ar/Informacion/InfoGeneral/Atencion/LOCALIDADES.asp
+103,BuenosAires,Laprida,56,Mitre Nº 1213,,,,https://www.arba.gov.ar/Informacion/InfoGeneral/Atencion/LOCALIDADES.asp
+104,BuenosAires,Las Flores,58,Harosteguy Nº 376,,,,https://www.arba.gov.ar/Informacion/InfoGeneral/Atencion/LOCALIDADES.asp
+105,BuenosAires,Vedia,59,Dg. Estrada N° 80,,,,https://www.arba.gov.ar/Informacion/InfoGeneral/Atencion/LOCALIDADES.asp
+106,BuenosAires,LEANDRO N. ALEM,,RIVADAVIA 240,,,,https://www.arba.gov.ar/Informacion/InfoGeneral/Atencion/LOCALIDADES.asp
+107,BuenosAires,Lezama,137,Av. Cobos Nº 210,,,,https://www.arba.gov.ar/Informacion/InfoGeneral/Atencion/LOCALIDADES.asp
+108,BuenosAires,Lincoln,60,Av Alem N° 999,,,,https://www.arba.gov.ar/Informacion/InfoGeneral/Atencion/LOCALIDADES.asp
+109,BuenosAires,El Triunfo,,San Martín Nº 141,,,,https://www.arba.gov.ar/Informacion/InfoGeneral/Atencion/LOCALIDADES.asp
+110,BuenosAires,Las Toscas,,25 de Mayo Nº 152,,,,https://www.arba.gov.ar/Informacion/InfoGeneral/Atencion/LOCALIDADES.asp
+111,BuenosAires,Martinez de Hoz,,García Nº 253,,,,https://www.arba.gov.ar/Informacion/InfoGeneral/Atencion/LOCALIDADES.asp
+112,BuenosAires,Carlos Salas,,Tucumán s/nº,,,,https://www.arba.gov.ar/Informacion/InfoGeneral/Atencion/LOCALIDADES.asp
+113,BuenosAires,Pasteur,,Avda. Dr. Oscar Bemonte s/nº,,,,https://www.arba.gov.ar/Informacion/InfoGeneral/Atencion/LOCALIDADES.asp
+114,BuenosAires,Bayauca,,9 de Julio y P. Musso,,,,https://www.arba.gov.ar/Informacion/InfoGeneral/Atencion/LOCALIDADES.asp
+115,BuenosAires,Roberts,,San Martín Nº 247,,,,https://www.arba.gov.ar/Informacion/InfoGeneral/Atencion/LOCALIDADES.asp
+116,BuenosAires,ARENAZA,,Mendizabal Nº 371,,,,https://www.arba.gov.ar/Informacion/InfoGeneral/Atencion/LOCALIDADES.asp
+117,BuenosAires,Loberia,61,Mitre Nº 264,,,,https://www.arba.gov.ar/Informacion/InfoGeneral/Atencion/LOCALIDADES.asp
+118,BuenosAires,Lobos,62,Belgrano Nº 159,,,,https://www.arba.gov.ar/Informacion/InfoGeneral/Atencion/LOCALIDADES.asp
+119,BuenosAires,Lomas de zamora,63,Manuel Castro N° 301,entre Portela y Rivera,,,https://www.arba.gov.ar/Informacion/InfoGeneral/Atencion/LOCALIDADES.asp
+120,BuenosAires,Predio Urkupiña-La Salada,,Calle Arana Goiri N° 4901,Ingeniero Budge,,,https://www.arba.gov.ar/Informacion/InfoGeneral/Atencion/LOCALIDADES.asp
+121,BuenosAires,Lujan,64,Bartolome Mitre N° 1263,,,,https://www.arba.gov.ar/Informacion/InfoGeneral/Atencion/LOCALIDADES.asp
+122,BuenosAires,Francisco Madero,258,Irigoyen Nº 156,,,,https://www.arba.gov.ar/Informacion/InfoGeneral/Atencion/LOCALIDADES.asp
+123,BuenosAires,Magdalena,65,Maipú N° 863,,,,https://www.arba.gov.ar/Informacion/InfoGeneral/Atencion/LOCALIDADES.asp
+124,BuenosAires,Maipu,66,Alsina Nº 476,,,,https://www.arba.gov.ar/Informacion/InfoGeneral/Atencion/LOCALIDADES.asp
+125,BuenosAires,Los Polvorines,,Pte. Perón N° 3010,,,,https://www.arba.gov.ar/Informacion/InfoGeneral/Atencion/LOCALIDADES.asp
+126,BuenosAires,MALVINAS ARGENTINAS,,Pte. Peron N°4276,(Los Polvorines),,,https://www.arba.gov.ar/Informacion/InfoGeneral/Atencion/LOCALIDADES.asp
+127,BuenosAires,Mar de Ajo,123,José Quinteros N° 288,,,,https://www.arba.gov.ar/Informacion/InfoGeneral/Atencion/LOCALIDADES.asp
+128,BuenosAires,Mar del Plata,45,Colón N° 3032,,,,https://www.arba.gov.ar/Informacion/InfoGeneral/Atencion/LOCALIDADES.asp
+129,BuenosAires,Puerto de Mar del Plata,,Rondeau N° 614,,,,https://www.arba.gov.ar/Informacion/InfoGeneral/Atencion/LOCALIDADES.asp
+130,BuenosAires,MAR DEL PLATA,,Colón Nº 3032,segundo piso,,,https://www.arba.gov.ar/Informacion/InfoGeneral/Atencion/LOCALIDADES.asp
+131,BuenosAires,Marcos Paz,68,Belgrano esq. Juan José paso,,,,https://www.arba.gov.ar/Informacion/InfoGeneral/Atencion/LOCALIDADES.asp
+132,BuenosAires,Mayor Buratovich,210,J. Couste N° 1087,,,,https://www.arba.gov.ar/Informacion/InfoGeneral/Atencion/LOCALIDADES.asp
+133,BuenosAires,Mercedes,71,22 N° 646,,,,https://www.arba.gov.ar/Informacion/InfoGeneral/Atencion/LOCALIDADES.asp
+134,BuenosAires,Merlo,72,Av. de la Calle Real N° 60,,,,https://www.arba.gov.ar/Informacion/InfoGeneral/Atencion/LOCALIDADES.asp
+135,BuenosAires,Monte,73,Italia N° 518,esq Rojas,,,https://www.arba.gov.ar/Informacion/InfoGeneral/Atencion/LOCALIDADES.asp
+136,BuenosAires,MONTE GRANDE,,Contanzo N° 202,,,,https://www.arba.gov.ar/Informacion/InfoGeneral/Atencion/LOCALIDADES.asp
+137,BuenosAires,Monte Hermoso,126,Nélida Fossatty N° 250,PB,,,https://www.arba.gov.ar/Informacion/InfoGeneral/Atencion/LOCALIDADES.asp
+138,BuenosAires,Moreno,74,Martinez Melo N° 236,,,,https://www.arba.gov.ar/Informacion/InfoGeneral/Atencion/LOCALIDADES.asp
+139,BuenosAires,Moron,101,Belgrano Nº 346,P.B,,,https://www.arba.gov.ar/Informacion/InfoGeneral/Atencion/LOCALIDADES.asp
+140,BuenosAires,Navarro,75,22 n° 322,,,,https://www.arba.gov.ar/Informacion/InfoGeneral/Atencion/LOCALIDADES.asp
+141,BuenosAires,Necochea,76,64 N° 2820,,,,https://www.arba.gov.ar/Informacion/InfoGeneral/Atencion/LOCALIDADES.asp
+142,BuenosAires,Nueve de Julio,77,Robio Nº 921,,,,https://www.arba.gov.ar/Informacion/InfoGeneral/Atencion/LOCALIDADES.asp
+143,BuenosAires,Olavarría,78,Moreno Nº 3169,,,,https://www.arba.gov.ar/Informacion/InfoGeneral/Atencion/LOCALIDADES.asp
+144,BuenosAires,OLAVARRIA,,Mariano Moreno Nº 3169,,,,https://www.arba.gov.ar/Informacion/InfoGeneral/Atencion/LOCALIDADES.asp
+145,BuenosAires,LISANDRO OLMOS,,44 e/ 196 y 197,,,,https://www.arba.gov.ar/Informacion/InfoGeneral/Atencion/LOCALIDADES.asp
+146,BuenosAires,Oriente,212,Av. Santa Marina N° 470,,,,https://www.arba.gov.ar/Informacion/InfoGeneral/Atencion/LOCALIDADES.asp
+147,BuenosAires,Juan Jose Paso,259,Além Nº 141,,,,https://www.arba.gov.ar/Informacion/InfoGeneral/Atencion/LOCALIDADES.asp
+148,BuenosAires,Pehuajó,80,Bartomé Mitre N° 350,,,,https://www.arba.gov.ar/Informacion/InfoGeneral/Atencion/LOCALIDADES.asp
+149,BuenosAires,Pellegrini,81,Moreno N° 122,,,,https://www.arba.gov.ar/Informacion/InfoGeneral/Atencion/LOCALIDADES.asp
+150,BuenosAires,Pergamino,82,Luzuriaga N° 22,,,,https://www.arba.gov.ar/Informacion/InfoGeneral/Atencion/LOCALIDADES.asp
+151,BuenosAires,Pigue,214,Av. Casey 537,,,,https://www.arba.gov.ar/Informacion/InfoGeneral/Atencion/LOCALIDADES.asp
+152,BuenosAires,Pila,83,11 y 4,,,,https://www.arba.gov.ar/Informacion/InfoGeneral/Atencion/LOCALIDADES.asp
+153,BuenosAires,Pilar,84,Lorenzo López Nº 574,,,,https://www.arba.gov.ar/Informacion/InfoGeneral/Atencion/LOCALIDADES.asp
+154,BuenosAires,Pinamar,124,Del Cazón Nº 1337,,,,https://www.arba.gov.ar/Informacion/InfoGeneral/Atencion/LOCALIDADES.asp
+155,BuenosAires,Pirovano,226,Av. Pirovano e/Cristofolo y Sebastiano,,,,https://www.arba.gov.ar/Informacion/InfoGeneral/Atencion/LOCALIDADES.asp
+156,BuenosAires,Presidente Peron,120,Leonor C.V. de Alonso N° 603,(ex calle 30) esq. 7 (Guernica),,,https://www.arba.gov.ar/Informacion/InfoGeneral/Atencion/LOCALIDADES.asp
+157,BuenosAires,Puan,85,Hipólito Yrigoyen N° 683,,,,https://www.arba.gov.ar/Informacion/InfoGeneral/Atencion/LOCALIDADES.asp
+158,BuenosAires,VERONICA,,30 nº 1131 e 21 y 23,,,,https://www.arba.gov.ar/Informacion/InfoGeneral/Atencion/LOCALIDADES.asp
+159,BuenosAires,Quequén,215,Calle 519 N° 2680 esq. 556,,,,https://www.arba.gov.ar/Informacion/InfoGeneral/Atencion/LOCALIDADES.asp
+160,BuenosAires,Quilmes,86,L.N. Alem Nº 323,,,,https://www.arba.gov.ar/Informacion/InfoGeneral/Atencion/LOCALIDADES.asp
+161,BuenosAires,Ramallo,87,Belgrano n° 1018,,,,https://www.arba.gov.ar/Informacion/InfoGeneral/Atencion/LOCALIDADES.asp
+162,BuenosAires,Ramos Mejia,,Av. Rivadavia N° 13518,,,,https://www.arba.gov.ar/Informacion/InfoGeneral/Atencion/LOCALIDADES.asp
+163,BuenosAires,RAMOS MEJIA,,calle Hipólito Yrigoyen N° 2147-San Justo (1754),,,,https://www.arba.gov.ar/Informacion/InfoGeneral/Atencion/LOCALIDADES.asp
+164,BuenosAires,Rauch,88,Moreno Esq. Bolivar,,,,https://www.arba.gov.ar/Informacion/InfoGeneral/Atencion/LOCALIDADES.asp
+165,BuenosAires,América,89,Sarmiento N° 359 (1° piso),,,,https://www.arba.gov.ar/Informacion/InfoGeneral/Atencion/LOCALIDADES.asp
+166,BuenosAires,Rojas,90,Gral. Alvear Nº 650,,,,https://www.arba.gov.ar/Informacion/InfoGeneral/Atencion/LOCALIDADES.asp
+167,BuenosAires,Roque Perez,91,Avellaneda nº 1306,,,,https://www.arba.gov.ar/Informacion/InfoGeneral/Atencion/LOCALIDADES.asp
+168,BuenosAires,Saavedra,92,Maipú nº 324,,,,https://www.arba.gov.ar/Informacion/InfoGeneral/Atencion/LOCALIDADES.asp
+169,BuenosAires,Saladillo,93,Sarmiento Nº 3047 - 1° Piso,,,,https://www.arba.gov.ar/Informacion/InfoGeneral/Atencion/LOCALIDADES.asp
+170,BuenosAires,Salliquelo,122,3 de Febrero N° 120,,,,https://www.arba.gov.ar/Informacion/InfoGeneral/Atencion/LOCALIDADES.asp
+171,BuenosAires,Salto,67,Moreno esq. Sarmiento,,,,https://www.arba.gov.ar/Informacion/InfoGeneral/Atencion/LOCALIDADES.asp
+172,BuenosAires,San Andres de Giles,94,Moreno N° 338,,,,https://www.arba.gov.ar/Informacion/InfoGeneral/Atencion/LOCALIDADES.asp
+173,BuenosAires,San Antonio de Areco,95,Dr Smith y Alvear,,,,https://www.arba.gov.ar/Informacion/InfoGeneral/Atencion/LOCALIDADES.asp
+174,BuenosAires,San Cayetano,116,25 de Mayo Nº 128,,,,https://www.arba.gov.ar/Informacion/InfoGeneral/Atencion/LOCALIDADES.asp
+175,BuenosAires,SAN CLEMENTE DEL TUYU,123,calle 4 n° 2373 e/ 20 y 21,,,,https://www.arba.gov.ar/Informacion/InfoGeneral/Atencion/LOCALIDADES.asp
+176,BuenosAires,San Fernando,96,Henry Dunant Nº 1030,,,,https://www.arba.gov.ar/Informacion/InfoGeneral/Atencion/LOCALIDADES.asp
+177,BuenosAires,San Isidro,97,25 de Mayo N° 251,,,,https://www.arba.gov.ar/Informacion/InfoGeneral/Atencion/LOCALIDADES.asp
+178,BuenosAires,San Miguel,131,Av. Balbin nº 897 esq. Muñoz,,,,https://www.arba.gov.ar/Informacion/InfoGeneral/Atencion/LOCALIDADES.asp
+179,BuenosAires,SAN NICOLAS,,Nación Nº 249 esq. 9 de Julio,,,,https://www.arba.gov.ar/Informacion/InfoGeneral/Atencion/LOCALIDADES.asp
+180,BuenosAires,San Pedro,99,Bartolomé Mitre N° 1137,,,,https://www.arba.gov.ar/Informacion/InfoGeneral/Atencion/LOCALIDADES.asp
+181,BuenosAires,San Vicente,100,Belgrano N° 92,,,,https://www.arba.gov.ar/Informacion/InfoGeneral/Atencion/LOCALIDADES.asp
+182,BuenosAires,Suipacha,102,San Martín N° 213 (LOCAL 1),,,,https://www.arba.gov.ar/Informacion/InfoGeneral/Atencion/LOCALIDADES.asp
+183,BuenosAires,Santa Clara,264,Selva Negra N° 229,,,,https://www.arba.gov.ar/Informacion/InfoGeneral/Atencion/LOCALIDADES.asp
+184,BuenosAires,Tandil,103,Alem Nº 644,,,,https://www.arba.gov.ar/Informacion/InfoGeneral/Atencion/LOCALIDADES.asp
+185,BuenosAires,Tapalqué,104,Bme. Mitre nº 170,,,,https://www.arba.gov.ar/Informacion/InfoGeneral/Atencion/LOCALIDADES.asp
+186,BuenosAires,Tigre,57,Av. Cazón N° 727,,,,https://www.arba.gov.ar/Informacion/InfoGeneral/Atencion/LOCALIDADES.asp
+187,BuenosAires,Tordillo,105,Juan Domingo Perón esq. San Martín,,,,https://www.arba.gov.ar/Informacion/InfoGeneral/Atencion/LOCALIDADES.asp
+188,BuenosAires,Tornquist,106,Sarmiento nº 99,,,,https://www.arba.gov.ar/Informacion/InfoGeneral/Atencion/LOCALIDADES.asp
+189,BuenosAires,Trenque Lauquen,107,Villegas y Oro - Centro civico la 1ra - 1er piso - Edificio Municipal,,,,https://www.arba.gov.ar/Informacion/InfoGeneral/Atencion/LOCALIDADES.asp
+190,BuenosAires,30 De agosto,220,A. del Valle N° 15 esquina Urquiza,,,,https://www.arba.gov.ar/Informacion/InfoGeneral/Atencion/LOCALIDADES.asp
+191,BuenosAires,Tres Arroyos,108,25 de Mayo Nº 515,,,,https://www.arba.gov.ar/Informacion/InfoGeneral/Atencion/LOCALIDADES.asp
+192,BuenosAires,Tres Algarrobos,218,C. N. de Balbiani y 25 de Mayo,,,,https://www.arba.gov.ar/Informacion/InfoGeneral/Atencion/LOCALIDADES.asp
+193,BuenosAires,Caseros,117,Juan Bautista Alberdi N° 4765,,,,https://www.arba.gov.ar/Informacion/InfoGeneral/Atencion/LOCALIDADES.asp
+194,BuenosAires,Tres Lomas,127,San Martín N° 352,,,,https://www.arba.gov.ar/Informacion/InfoGeneral/Atencion/LOCALIDADES.asp
+195,BuenosAires,Urdampilleta,221,Av. San Martín N° 499,,,,https://www.arba.gov.ar/Informacion/InfoGeneral/Atencion/LOCALIDADES.asp
+196,BuenosAires,25 De mayo,109,10 Nº 733 (e/ 26 y 27),,,,https://www.arba.gov.ar/Informacion/InfoGeneral/Atencion/LOCALIDADES.asp
+197,BuenosAires,Vicente Lopez,110,Av. Maipú Nº 2259 Pta. Baja,,,,https://www.arba.gov.ar/Informacion/InfoGeneral/Atencion/LOCALIDADES.asp
+198,BuenosAires,Villa Gesell,125,Paseo 107 e 4 y 5 n° 414,,,,https://www.arba.gov.ar/Informacion/InfoGeneral/Atencion/LOCALIDADES.asp
+199,BuenosAires,Villa Iris,222,Av. San Martín N° 52,,,,https://www.arba.gov.ar/Informacion/InfoGeneral/Atencion/LOCALIDADES.asp
+200,BuenosAires,VILLA LONGA,,Río Colorado N° 170,,,,https://www.arba.gov.ar/Informacion/InfoGeneral/Atencion/LOCALIDADES.asp
+201,BuenosAires,Villa Maza,208,Italia N° 158,,,,https://www.arba.gov.ar/Informacion/InfoGeneral/Atencion/LOCALIDADES.asp
+202,BuenosAires,Medanos,111,Mitre N° 410,,,,https://www.arba.gov.ar/Informacion/InfoGeneral/Atencion/LOCALIDADES.asp
+203,BuenosAires,Zarate,38,H. Yrigoyen N° 777,,,,https://www.arba.gov.ar/Informacion/InfoGeneral/Atencion/LOCALIDADES.asp
+204,Catamarca,Casa Central,,Vicario Segura 835,,,,http://www.catastro.catamarca.gov.ar/
+205,Catamarca,Belén,,Sarmiento 476,,,,http://www.catastro.catamarca.gov.ar/
+206,Catamarca,Santa María,,1º Mayo 180,,,,http://www.catastro.catamarca.gov.ar/
+207,Catamarca,Tinogasta,,Copiapó 161,,,,http://www.catastro.catamarca.gov.ar/
+208,Catamarca,Recreo,,Farid Osre Esquina Roque Saenz Peña,,,,http://www.catastro.catamarca.gov.ar/
+209,Catamarca,Andalgalá,,Perez de Zurita esquina Yrigoyen,,,,http://www.catastro.catamarca.gov.ar/
+210,SantaFe,Regional Santa Fé,,Saavedra 2260,,"54 - 342 - 4573757, 4573772, 4574787, 4574788",,https://www.santafe.gov.ar/index.php/tramites/modul1/index?m=descripcion&id=97532
+211,SantaFe,Reconquista,,"Tucumán 1853, Planta Alta",CP 2000,"54 - 341 - 4721329, 4721336, 4721337, 4721548",,https://www.santafe.gov.ar/index.php/tramites/modul1/index?m=descripcion&id=97532
+212,SantaFe,Rosario,,San Martín 1077,CP 3560,"54 - 382 - 421409, 421483",,https://www.santafe.gov.ar/index.php/tramites/modul1/index?m=descripcion&id=97532
+213,SantaFe,Venado Tuerto,,San Martín 899,CP 2600,"54 - 3462 - 421417, 42190",,https://www.santafe.gov.ar/index.php/tramites/modul1/index?m=descripcion&id=97532
+214,Mendoza,Zona Sur,,"Sarmiento 3, San Rafael",,(0260) 4423706,,https://www.atm.mendoza.gov.ar/portalatm/zoneTop/delegaciones/delegaciones.jsp
+215,Mendoza,Zona Este,,"Las Heras 65, San Martín",,(02634) 432020,,https://www.atm.mendoza.gov.ar/portalatm/zoneTop/delegaciones/delegaciones.jsp
+216,Mendoza,Tunuyán,,"Pellegrini 46, Tunuyán",,(02622) 425277,,https://www.atm.mendoza.gov.ar/portalatm/zoneTop/delegaciones/delegaciones.jsp

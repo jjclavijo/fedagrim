@@ -1,3 +1,7 @@
+# Ubicación de los Agrimensores.
+
+Se trabajó con los listados de profesionales provistos por los consejos.
+
 # Geocoding de Matriculados
 
 Se trabajó por dirección.
