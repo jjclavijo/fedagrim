@@ -13,7 +13,7 @@
       div.map { width: 300px; height: 600px;}
       a.selector { border-width:1px; border-style: solid; margin=10px; padding=10px; font-size: 80%; border-radius: 3px; background-color: #E1ECF4; color: #07C; text-decoration: none; cursor: pointer; }
       a.selector2 { border-width:1px; border-style: solid; margin=10px; padding=10px; font-size: 80%; border-radius: 3px; background-color: #E1ECF4; color: #07C; text-decoration: none; cursor: pointer; }
-      div.palabras{ width: 300px }
+      div.palabras{ width: 300px; float:left }
 	.info {
 	padding: 6px 8px;
 	font: 14px/16px Arial, Helvetica, sans-serif;
@@ -35,7 +35,7 @@
 	margin-right: 8px;
 	opacity: 0.7;
 	}
-	div.mapcont{ width: 350px; float: left;}
+	div.mapcont{ max-width: 350px; float: left}
   </style>
   <!--[if lt IE 9]>
     <script src="//cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv-printshiv.min.js"></script>
@@ -57,8 +57,6 @@
 
 </head>
 <body>
-<h1 class="nopdf" id="esto-es-un-comentario">esto es un comentario</h1>
-<h2 class="nopdf" id="se-ve-asi">se ve asi</h2>
 
 <script src="gis/leyes-layer.js" type="text/javascript"></script>
 <script>
@@ -141,6 +139,11 @@ function make_map(columna,mapa) {
             make_map(this.innerText,'map2');
         });
     });
+</script>
+
+<script>
+make_map('mensura','map');
+make_map('agrimensor','map2');
 </script>
 
 </body>

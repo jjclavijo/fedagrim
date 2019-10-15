@@ -1,24 +1,49 @@
-<h1 id="análisis-de-leyes-de-catastro-por-conteo-de-palabras.">Análisis de leyes de catastro por conteo de palabras.</h1>
-<p>En este repositorio trabajamos analizando las leyes de catastro de las distintas provincias argentinas a partir de un conteo de palabras.</p>
-<p>Los documentos originales están en la carpeta <a href="/jjclavijo/contar-leyes/data/docs">docs</a>.</p>
-<p>En un primer paso se convirtieron los documentos a texto plano, que se encuentran en la carpeta <a href="txt">txt</a>.</p>
-<h2 id="criterio-de-conteo.">Criterio de Conteo.</h2>
-<p>Para el conteo se eliminaron todos los signos de puntuación y se reemplazaron las tildes por letras sin tilde, para evitar errores.</p>
-<p>Se trabajo con programas nativos del entorno linux (grep, tr, sed), para realizar un primer conteo de palabras (en <a href="count">count</a>) y de expresiones de dos palabras, (en <a href="count2">count2</a>).</p>
-<p>Las expresiones se formaron luego de eliminar palabras no significativas a partir de <a href="aux/cwds.txt">una lista de palabras</a>, de modo que por ejemplo donde dijera “valor de la tierra” se cuente como “valor tierra”.</p>
-<h2 id="elección-de-términos">Elección de términos</h2>
-<p>Luego de el primer contéo se elaboraron listas de todos los términos que aparecian repetidos en al menos dos leyes, y se filtró en forma manual hasta llegar a una lista manejable de términos a evaluar. Se eligieron 248 <a href="aux/terminos.2.d.txt">términos de dos palabras</a>, y 352 <a href="terminos.d.txt">palabras significativas</a>.</p>
-<p>En una etapa futura es conveniente unificar el conteo de plurales y palabras derivadas. Por ejemplo, las menciones a “agrimensores” “agrimensor” “profesional agrimensura”, etc. deberían sumarse.</p>
-<h2 id="filtrado-y-generacion-de-tablas.">Filtrado y generacion de tablas.</h2>
-<p>Finalmente, se filtraron las listas de palabras utilizando los terminos elegidos, ver <a href="filtrado">palabras</a> y <a href="filtrado2">terminos</a> resultantes.</p>
-<p>A partir de estos nuevos listados se confeccionaron tablas en formato de texto separado por <code>|</code>, para <a href="tabla.1.csv">palabras</a> y <a href="tabla.2.csv">terminos</a> respectivamente. Luego se convirtieron a <a href="xlsx">excel</a> para mejor manejo.</p>
-<h2 id="generación-de-mapas.">Generación de mapas.</h2>
-<p>Se generó en la carpeta <a href="gis">gis</a> una capa de <a href="gis/provincias_simple.geojson">poligonos de provincias</a> simplificado, utilizando la <a href="https://github.com/topojson/topojson">herramienta topojson</a>, de manera que se generó una capa topológicamente correcta.</p>
-<p>A partir de esta capa, se generó una <a href="gis/provincias.gpkg">base de datos –puede descargarse aqui y utilizarse en un software como QGIS–</a> geoespacial en formato geopackage, que puede consultarte utilizando sqlite+spatialite a partir de las herramientas provistas por la libreria <a href="https://gdal.org/drivers/vector/gpkg.html">gdal</a>.</p>
-<p>De esta manera se genraron archivos geojson con visualizaciones de ejemplo, una para el término <a href="gis/provincias-cc.geojson">certificado catastral (ver este link)</a> y otra para <a href="gis/provincias-ep.geojson">estado parcelario (ver este link)</a></p>
-
-<script src="https://embed.github.com/view/geojson/jjclavijo/contar-leyes/data/gis/provincias-ep.geojson"></script>
-
-<script src="https://embed.github.com/view/geojson/jjclavijo/contar-leyes/data/gis/provincias-cc.geojson"></script>
-
-<h3 id="todos-los-procesos-realizados-para-generar-cada-archivo-pueden-revisarse-consultando-el-makefile.">Todos los procesos realizados para generar cada archivo pueden revisarse consultando el <a href="Makefile">Makefile</a>.</h3>
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="" xml:lang="">
+<head>
+  <meta charset="utf-8" />
+  <meta name="generator" content="pandoc" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes" />
+  <title>Mapas</title>
+  <style>
+      code{white-space: pre-wrap;}
+      span.smallcaps{font-variant: small-caps;}
+      span.underline{text-decoration: underline;}
+      div.column{display: inline-block; vertical-align: top; width: 50%;}
+      div.estatico{height:500px; widht:auto}
+      img{max-height:600px;}
+  </style>
+  <!--[if lt IE 9]>
+    <script src="//cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv-printshiv.min.js"></script>
+  <![endif]-->
+</head>
+<body>
+<h1 id="mapas">Mapas</h1>
+<p>En la presentación realizada en mendoza en octubre de 2019, se mostraron algunos ejemplos de mapas elaborados con los datos recolectados.</p>
+<p>A continuación, sin demaciado cambio, se incluyen los mapas estáticos incluidos.</p>
+<h1 id="mapa-de-matriculados-y-alumnos-activos-en-universidades">Mapa de Matriculados y Alumnos Activos en Universidades</h1>
+<p>Este mapa se generó utilizando la información que está en los geopackages de Grillas.gpkg y universidades.gpkg que pueden <a href="https://github.com/jjclavijo/fedagrim/tree/data/gpkg">descargarse aquí</a>.</p>
+<div class="estatico">
+<figure>
+<img src="img/Matriculados-Univ.png" alt="" />
+</figure>
+</div>
+<h1 id="mapas-de-matriculados-y-cantidad-de-parcelas-por-unidad-de-superficie.">Mapas de Matriculados y Cantidad de parcelas por unidad de superficie.</h1>
+<p>Los mapas que siguen, utilizando una escala de colores similar a la anterior, compara la cantidad de parcelas en el catastro provincial con la cantidad de matriculados. Si bien la comparación es puramente gráfica y no se incluyó una leyenda para especificar la magnitud de los valores representados, da una idea de la información con la que se cuenta.</p>
+<div class="estatico">
+<figure>
+<img src="img/mat+parc.png" alt="" />
+</figure>
+</div>
+<h1 id="profesion-de-los-directores-de-catastro.">Profesion de los directores de catastro.</h1>
+<p>En este mapa se representó la información obtenida de la web de Consejo Federal del Catastro acerca de la profesión de cada director porvincial de catastro. En algunos casos “ingeniero” podría ser equivalente a “ingeniero agrimensor”, no se lo identificó de ese modo a menos que lo dijera expresamente la fuente.</p>
+<div class="estatico">
+<figure>
+<img src="img/Profesiones.png" alt="" />
+</figure>
+</div>
+<h1 id="menciones-en-las-leyes-de-catastro.">Menciones en las leyes de catastro.</h1>
+<p>Los mapas mostrados en la presentación comparando las menciones de determinados términos en las leyes provinciales de catastro corresponden a una visualización interactiva construida utilizando Leaflet.js a partir de la información procesada tal como se explica en: <a href="https://github.com/jjclavijo/contar-leyes#an%C3%A1lisis-de-leyes-de-catastro-por-conteo-de-palabras">Proyecto contar-leyes</a></p>
+<p>Pueden verse los mapas interactivos en los links que siguen: <a href="./lftest.html">Mapas con dos palabras</a> y <a href="./lftest1.html">Mapas con una palabra</a></p>
+</body>
+</html>
